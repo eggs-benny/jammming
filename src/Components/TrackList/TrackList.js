@@ -17,13 +17,6 @@ class TrackList extends React.Component {
             />
           );
         })}
-        {/* 
-        <h3>Killing in the Name</h3>
-        <p>Rage Against The Machine | Rage Against The Machine</p>
-        <h3>Fruit Salad</h3>
-        <p>The Wiggles | Yummy Yummy</p>
-        <h3>Break Stuff</h3>
-        <p>Limp Bizkit | Significant Other</p> */}
       </div>
     );
   }
